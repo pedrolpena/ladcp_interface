@@ -1,0 +1,28 @@
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'linux'
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.10.6 (main, May 29 2023, 11:10:38) [GCC 11.3.0]'
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 7.0.5-7.0.5~ubuntu22.04.1
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.9
+
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080), wx.Size(1920, 1200)]
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+06-12 11:44:04 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 17
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 24:Starting to archive 3D models
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: P1
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H2
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: D1
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_P600_R-6_P20.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_P600_R-6_P20.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: P6
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H4
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: P2
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H3
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H1
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: P3
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl
+06-12 11:44:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl
