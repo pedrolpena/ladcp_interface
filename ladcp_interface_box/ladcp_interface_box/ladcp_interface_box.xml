@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/pena/Downloads/src/ladcp_interface/ladcp_interface_box/ladcp_interface_box/ladcp_interface_box.kicad_sch</source>
+    <date>Thu 05 Oct 2023 09:52:04 AM EDT</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>LADCP interface box</title>
+        <company>NOAA\AOML|PHOD</company>
+        <rev>1.0.0</rev>
+        <date>2023-06-26</date>
+        <source>ladcp_interface_box.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90cb36b9-5065-4014-b82a-541ef57df546</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>088fd09e-56ca-43a1-8e99-0b0eb7f5a154</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>3.3uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet> https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CGA4J1X7R1E335K125AC</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">445-6966-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="445-6966-1-ND"/>
+      <property name="manufacturer part#" value="CGA4J1X7R1E335K125AC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a834fd-1f29-4751-a4dd-3d613d5c86a0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f37e4b0-f79e-454d-b597-3662f637f87b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4718916f-60a2-4d51-977f-3d19e80add68</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e973cef1-53ba-463e-b274-26071849769f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea836491-d088-4726-8758-a271f02ebabe</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d50de718-25f9-41db-a376-c2edb5bf5f94</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d23e05e-43cc-48a2-97eb-6e560b253f99</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7122962-b054-471b-a2d6-80f97b41748c</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90fa7d4c-868f-4649-9462-8ab04d9cace2</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd5c453c-a2bb-49fc-a00c-e8569d7d816e</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>4.7uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/TAJ.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">TAJR475M010RNJ</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">478-3057-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="478-3057-1-ND"/>
+      <property name="manufacturer part#" value="TAJR475M010RNJ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c1e171-fc1e-4c3f-8635-fed34ec1bab8</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>4.7uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/TAJ.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">TAJR475M010RNJ</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">478-3057-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="478-3057-1-ND"/>
+      <property name="manufacturer part#" value="TAJR475M010RNJ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f306071a-72e7-4add-b4ff-437d19dca2d6</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f92fb50-e323-4442-b50e-df4583596b50</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fa0bd52-516b-4ab7-94de-c16cd5f22125</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a9ac822-4dce-4dc0-a0e4-5a6db1577087</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d36920f-e97b-4e8f-8a04-a0a49dfc60d5</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_22.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">CC0805KRX7R9BB104</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">311-1140-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="311-1140-1-ND"/>
+      <property name="manufacturer part#" value="CC0805KRX7R9BB104"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>461d64f3-51ae-436f-8d5c-e38147a58b54</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>4.7uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/TAJ.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">TAJR475M010RNJ</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">478-3057-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="478-3057-1-ND"/>
+      <property name="manufacturer part#" value="TAJR475M010RNJ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>677b7556-f1fe-4aef-b770-f5042a75428f</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>50V 1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <datasheet>https://www.cde.com/resources/catalogs/RSS.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">105RSS050M</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">105RSS050M-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="105RSS050M-ND"/>
+      <property name="manufacturer part#" value="105RSS050M"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b76f07dc-0997-42e4-9ca9-c2d330ff28fb</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>50V 10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <datasheet>https://www.cde.com/resources/catalogs/RSS.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">106RSS050M</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">1572-1291-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="1572-1291-ND"/>
+      <property name="manufacturer part#" value="106RSS050M"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c13cc955-18d6-432c-b7ac-966447950a4c</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Laird%20Technologies/EMI_Filtering_and_RF_Inductors.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">HZ0805E601R-10</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">240-2399-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="240-2399-1-ND"/>
+      <property name="manufacturer part#" value="HZ0805E601R-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead, small symbol"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19e323c8-b3a1-4a06-8b29-2276a9a31046</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Laird%20Technologies/EMI_Filtering_and_RF_Inductors.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">HZ0805E601R-10</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">240-2399-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="240-2399-1-ND"/>
+      <property name="manufacturer part#" value="HZ0805E601R-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead, small symbol"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cfa48fb-983a-4307-bc01-f06eda17f046</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4054b9e-5275-43d6-b698-e31967da55b1</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.1mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97f557f1-b4cc-4c16-9147-07edbfb38d5c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TERM BLK 8POS SIDE ENTRY 5MM PCB</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935226.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935226</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1583-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1583-ND"/>
+      <property name="manufacturer part#" value="1935226"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b53e890-d111-4bd9-8010-666e5cc2c523</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>USB_B_Mini</value>
+      <footprint>Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Wurth%20Electronics%20PDFs/Communication%20Conn%20WR-COM.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">65100516121</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">732-2109-1-ND</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Mini" description="USB Mini Type B connector"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="732-2109-1-ND"/>
+      <property name="manufacturer part#" value="65100516121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="USB Mini Type B connector"/>
+      <property name="ki_keywords" value="connector USB mini"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9be39f8e-6644-4ede-95a2-a566b37583cb</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>CHARGER</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8825bf21-92e6-4e91-98ea-3b44e067ed46</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>SWITCH</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcdf62e6-b0d3-47d1-bc18-d74ec055e7b5</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>AMMETER</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d78b77dd-19e0-4f12-af62-334dd36e0d45</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>VOLT METER</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae05bf1a-ddd1-4284-9ca0-83fde24cb134</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>+12V</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72e66baa-5504-4bb6-8f35-0fcd6ddc52e1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">RC0805FR-071KL</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#"> 311-1.00KCRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value=" 311-1.00KCRCT-ND"/>
+      <property name="manufacturer part#" value="RC0805FR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d46b7981-697e-45ca-891d-fef89c15b22f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>12K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">RMCF0805JT12K0</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">738-RMCF0805JT12K0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="738-RMCF0805JT12K0CT-ND"/>
+      <property name="manufacturer part#" value="RMCF0805JT12K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99efa168-5435-4b45-9878-2cab1cf6a86e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>FT4232H</value>
+      <footprint>Package_QFP:LQFP-64_10x10mm_P0.5mm</footprint>
+      <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">FT4232HL-REEL</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">  768-1026-1-ND</field>
+      </fields>
+      <libsource lib="Interface_USB" part="FT4232H" description="Hi Speed Quad Channel USB UART/FIFO, LQFP/QFN-64"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="  768-1026-1-ND"/>
+      <property name="manufacturer part#" value="FT4232HL-REEL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Hi Speed Quad Channel USB UART/FIFO, LQFP/QFN-64"/>
+      <property name="ki_keywords" value="FTDI USB Quad UART FIFO"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f588eb4-a43d-4126-ad7b-b89ce8487363</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>3.3V regulator</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <datasheet>https://www.rohm.com/datasheet?p=BA033CC0FP&amp;dist=Digi-key&amp;media=referral&amp;source=digi-key.com&amp;campaign=Digi-key</datasheet>
+      <fields>
+        <field name="manufacturer part#">BA033CC0FP-E2</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">BA033CC0FP-E2CT-ND</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LF33_TO252" description="Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 3.3V, TO-252 (DPAK)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="BA033CC0FP-E2CT-ND"/>
+      <property name="manufacturer part#" value="BA033CC0FP-E2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 3.3V, TO-252 (DPAK)"/>
+      <property name="ki_keywords" value="LDO regulator voltage"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>637bb761-1499-4045-b656-1bc7fc93b80b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MAX3232</value>
+      <footprint>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax3232</datasheet>
+      <fields>
+        <field name="manufacturer part#">MAX3232EUE+T</field>
+        <field name="vendor"> digikey</field>
+        <field name="vendor part#">MAX3232EUE+TCT-ND</field>
+      </fields>
+      <libsource lib="Interface_UART" part="MAX3232" description="3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors"/>
+      <property name="vendor" value=" digikey"/>
+      <property name="vendor part#" value="MAX3232EUE+TCT-ND"/>
+      <property name="manufacturer part#" value="MAX3232EUE+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors"/>
+      <property name="ki_keywords" value="rs232 uart transceiver line-driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e571d1c6-affa-44a3-9242-ee1d11249116</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>12V LDO</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ZXTR2112FQ.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">ZXTR2112FQ-7</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">ZXTR2112FQ-7DICT-ND</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="APE8865N-16-HF-3" description="300mA Low Dropout Voltage Regulator, Fixed Output 1.6V, SOT-23"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="ZXTR2112FQ-7DICT-ND"/>
+      <property name="manufacturer part#" value="ZXTR2112FQ-7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="300mA Low Dropout Voltage Regulator, Fixed Output 1.6V, SOT-23"/>
+      <property name="ki_keywords" value="300mA LDO Regulator Fixed Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2e8fc13-0411-474c-bd99-3859a3a6312b</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>ECS-2033-120-BN</value>
+      <footprint>Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm</footprint>
+      <datasheet>https://ecsxtal.com/store/pdf/ecs-2025-2033.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">ECS-2033-120-BN</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">XC1426CT-ND</field>
+      </fields>
+      <libsource lib="Oscillator" part="ECS-2520MV-xxx-xx" description="HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="XC1426CT-ND"/>
+      <property name="manufacturer part#" value="ECS-2033-120-BN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_interface_box.kicad_sch"/>
+      <property name="ki_description" value="HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD"/>
+      <property name="ki_keywords" value="Crystal Clock Oscillator ECS SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>123a2a8f-63bf-40b1-8a81-c11ca9349de9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x08">
+      <description>Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Mini">
+      <description>USB Mini Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Mini</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="MAX3232">
+      <description>3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX3232</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="power_out"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="power_out"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="FT4232H">
+      <description>Hi Speed Quad Channel USB UART/FIFO, LQFP/QFN-64</description>
+      <docs>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*9x9mm*P0.5mm*</fp>
+        <fp>LQFP*10x10mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT4232H</field>
+        <field name="Datasheet">https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="OSCI" type="input"/>
+        <pin num="3" name="OSCO" type="output"/>
+        <pin num="4" name="VPHY" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="REF" type="input"/>
+        <pin num="7" name="DM" type="bidirectional"/>
+        <pin num="8" name="DP" type="bidirectional"/>
+        <pin num="9" name="VPLL" type="power_in"/>
+        <pin num="10" name="AGND" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="VCORE" type="power_in"/>
+        <pin num="13" name="TEST" type="input"/>
+        <pin num="14" name="~{RESET}" type="input"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="ADBUS0" type="bidirectional"/>
+        <pin num="17" name="ADBUS1" type="bidirectional"/>
+        <pin num="18" name="ADBUS2" type="bidirectional"/>
+        <pin num="19" name="ADBUS3" type="bidirectional"/>
+        <pin num="20" name="VCCIO" type="power_in"/>
+        <pin num="21" name="ADBUS4" type="bidirectional"/>
+        <pin num="22" name="ADBUS5" type="bidirectional"/>
+        <pin num="23" name="ADBUS6" type="bidirectional"/>
+        <pin num="24" name="ADBUS7" type="bidirectional"/>
+        <pin num="25" name="GND" type="power_in"/>
+        <pin num="26" name="BDBUS0" type="bidirectional"/>
+        <pin num="27" name="BDBUS1" type="bidirectional"/>
+        <pin num="28" name="BDBUS2" type="bidirectional"/>
+        <pin num="29" name="BDBUS3" type="bidirectional"/>
+        <pin num="30" name="BDBUS4" type="bidirectional"/>
+        <pin num="31" name="VCCIO" type="power_in"/>
+        <pin num="32" name="BDBUS5" type="bidirectional"/>
+        <pin num="33" name="BDBUS6" type="bidirectional"/>
+        <pin num="34" name="BDBUS7" type="bidirectional"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="~{SUSPEND}" type="output"/>
+        <pin num="37" name="VCORE" type="power_in"/>
+        <pin num="38" name="CDBUS0" type="bidirectional"/>
+        <pin num="39" name="CDBUS1" type="bidirectional"/>
+        <pin num="40" name="CDBUS2" type="bidirectional"/>
+        <pin num="41" name="CDBUS3" type="bidirectional"/>
+        <pin num="42" name="VCCIO" type="power_in"/>
+        <pin num="43" name="CDBUS4" type="bidirectional"/>
+        <pin num="44" name="CDBUS5" type="bidirectional"/>
+        <pin num="45" name="CDBUS6" type="bidirectional"/>
+        <pin num="46" name="CDBUS7" type="bidirectional"/>
+        <pin num="47" name="GND" type="power_in"/>
+        <pin num="48" name="DDBUS0" type="bidirectional"/>
+        <pin num="49" name="VREGOUT" type="power_out"/>
+        <pin num="50" name="VREGIN" type="power_in"/>
+        <pin num="51" name="GND" type="power_in"/>
+        <pin num="52" name="DDBUS1" type="bidirectional"/>
+        <pin num="53" name="DDBUS2" type="bidirectional"/>
+        <pin num="54" name="DDBUS3" type="bidirectional"/>
+        <pin num="55" name="DDBUS4" type="bidirectional"/>
+        <pin num="56" name="VCCIO" type="power_in"/>
+        <pin num="57" name="DDBUS5" type="bidirectional"/>
+        <pin num="58" name="DDBUS6" type="bidirectional"/>
+        <pin num="59" name="DDBUS7" type="bidirectional"/>
+        <pin num="60" name="~{PWREN}" type="output"/>
+        <pin num="61" name="EEDATA" type="bidirectional"/>
+        <pin num="62" name="EECLK" type="output"/>
+        <pin num="63" name="EECS" type="output"/>
+        <pin num="64" name="VCORE" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Oscillator" part="ECS-2520MV-xxx-xx">
+      <description>HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD</description>
+      <docs>https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf</docs>
+      <footprints>
+        <fp>Oscillator*SMD*ECS*2520MV*2.5x2.0mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">ECS-2520MV-xxx-xx</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm</field>
+        <field name="Datasheet">https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Tri-State" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="APE8865N-16-HF-3">
+      <description>300mA Low Dropout Voltage Regulator, Fixed Output 1.6V, SOT-23</description>
+      <docs>http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">APE8865N-16-HF-3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LF33_TO252">
+      <description>Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 3.3V, TO-252 (DPAK)</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LF33_TO252</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>/usr/share/kicad/symbols//Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/usr/share/kicad/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>/usr/share/kicad/symbols//Oscillator.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+1.8V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="VCORE" pintype="power_in"/>
+      <node ref="U1" pin="37" pinfunction="VCORE" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="VREGOUT" pintype="power_out"/>
+      <node ref="U1" pin="64" pinfunction="VCORE" pintype="power_in"/>
+    </net>
+    <net code="2" name="/+3.3V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U1" pin="31" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U1" pin="42" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U1" pin="50" pinfunction="VREGIN" pintype="power_in"/>
+      <node ref="U1" pin="56" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="X1" pin="1" pinfunction="Tri-State" pintype="input"/>
+      <node ref="X1" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="3" name="/+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="U2" pin="1" pinfunction="VI" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="4" name="/+12V">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="5" name="/+48V">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="6" name="/RS232_ADCP_IN_MASTER">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="T1OUT" pintype="output"/>
+    </net>
+    <net code="7" name="/RS232_ADCP_IN_SLAVE">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="T2OUT" pintype="output"/>
+    </net>
+    <net code="8" name="/RS232_ADCP_OUT_MASTER">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="R1IN" pintype="input"/>
+    </net>
+    <net code="9" name="/RS232_ADCP_OUT_SLAVE">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="R2IN" pintype="input"/>
+    </net>
+    <net code="10" name="/TTL_RX_A">
+      <node ref="U1" pin="17" pinfunction="ADBUS1" pintype="bidirectional"/>
+      <node ref="U3" pin="12" pinfunction="R1OUT" pintype="output"/>
+    </net>
+    <net code="11" name="/TTL_RX_B">
+      <node ref="U1" pin="27" pinfunction="BDBUS1" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="R2OUT" pintype="output"/>
+    </net>
+    <net code="12" name="/TTL_TX_A">
+      <node ref="U1" pin="16" pinfunction="ADBUS0" pintype="bidirectional"/>
+      <node ref="U3" pin="11" pinfunction="T1IN" pintype="input"/>
+    </net>
+    <net code="13" name="/TTL_TX_B">
+      <node ref="U1" pin="26" pinfunction="BDBUS0" pintype="bidirectional"/>
+      <node ref="U3" pin="10" pinfunction="T2IN" pintype="input"/>
+    </net>
+    <net code="14" name="GNDD">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="ID" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J2" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="13" pinfunction="TEST" pintype="input"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="25" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="47" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="51" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="X1" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="15" name="Net-(J2-D+)">
+      <node ref="J2" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="DP" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(J2-D-)">
+      <node ref="J2" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="DM" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J4-Pin_1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U1-OSCI)">
+      <node ref="U1" pin="2" pinfunction="OSCI" pintype="input"/>
+      <node ref="X1" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U1-REF)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="REF" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(U1-VPHY)">
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VPHY" pintype="power_in"/>
+    </net>
+    <net code="22" name="Net-(U1-VPLL)">
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="VPLL" pintype="power_in"/>
+    </net>
+    <net code="23" name="Net-(U1-~{RESET})">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U3-C1+)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(U3-C1-)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(U3-C2+)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(U3-C2-)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(U3-VS+)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VS+" pintype="power_out"/>
+    </net>
+    <net code="29" name="Net-(U3-VS-)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="VS-" pintype="power_out"/>
+    </net>
+    <net code="30" name="unconnected-(J1-Pin_8-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-ADBUS2-Pad18)">
+      <node ref="U1" pin="18" pinfunction="ADBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U1-ADBUS3-Pad19)">
+      <node ref="U1" pin="19" pinfunction="ADBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-ADBUS4-Pad21)">
+      <node ref="U1" pin="21" pinfunction="ADBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-ADBUS5-Pad22)">
+      <node ref="U1" pin="22" pinfunction="ADBUS5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-ADBUS6-Pad23)">
+      <node ref="U1" pin="23" pinfunction="ADBUS6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U1-ADBUS7-Pad24)">
+      <node ref="U1" pin="24" pinfunction="ADBUS7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-BDBUS2-Pad28)">
+      <node ref="U1" pin="28" pinfunction="BDBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-BDBUS3-Pad29)">
+      <node ref="U1" pin="29" pinfunction="BDBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-BDBUS4-Pad30)">
+      <node ref="U1" pin="30" pinfunction="BDBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-BDBUS5-Pad32)">
+      <node ref="U1" pin="32" pinfunction="BDBUS5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-BDBUS6-Pad33)">
+      <node ref="U1" pin="33" pinfunction="BDBUS6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-BDBUS7-Pad34)">
+      <node ref="U1" pin="34" pinfunction="BDBUS7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-CDBUS0-Pad38)">
+      <node ref="U1" pin="38" pinfunction="CDBUS0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-CDBUS1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="CDBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-CDBUS2-Pad40)">
+      <node ref="U1" pin="40" pinfunction="CDBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-CDBUS3-Pad41)">
+      <node ref="U1" pin="41" pinfunction="CDBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-CDBUS4-Pad43)">
+      <node ref="U1" pin="43" pinfunction="CDBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-CDBUS5-Pad44)">
+      <node ref="U1" pin="44" pinfunction="CDBUS5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U1-CDBUS6-Pad45)">
+      <node ref="U1" pin="45" pinfunction="CDBUS6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U1-CDBUS7-Pad46)">
+      <node ref="U1" pin="46" pinfunction="CDBUS7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U1-DDBUS0-Pad48)">
+      <node ref="U1" pin="48" pinfunction="DDBUS0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U1-DDBUS1-Pad52)">
+      <node ref="U1" pin="52" pinfunction="DDBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U1-DDBUS2-Pad53)">
+      <node ref="U1" pin="53" pinfunction="DDBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-DDBUS3-Pad54)">
+      <node ref="U1" pin="54" pinfunction="DDBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U1-DDBUS4-Pad55)">
+      <node ref="U1" pin="55" pinfunction="DDBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U1-DDBUS5-Pad57)">
+      <node ref="U1" pin="57" pinfunction="DDBUS5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U1-DDBUS6-Pad58)">
+      <node ref="U1" pin="58" pinfunction="DDBUS6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U1-DDBUS7-Pad59)">
+      <node ref="U1" pin="59" pinfunction="DDBUS7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U1-EECLK-Pad62)">
+      <node ref="U1" pin="62" pinfunction="EECLK" pintype="output+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U1-EECS-Pad63)">
+      <node ref="U1" pin="63" pinfunction="EECS" pintype="output+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U1-EEDATA-Pad61)">
+      <node ref="U1" pin="61" pinfunction="EEDATA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U1-OSCO-Pad3)">
+      <node ref="U1" pin="3" pinfunction="OSCO" pintype="output+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-~{PWREN}-Pad60)">
+      <node ref="U1" pin="60" pinfunction="~{PWREN}" pintype="output+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-~{SUSPEND}-Pad36)">
+      <node ref="U1" pin="36" pinfunction="~{SUSPEND}" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

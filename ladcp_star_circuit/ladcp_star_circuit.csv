@@ -1,0 +1,5 @@
+Item,Qty,Reference(s),DNP,Sim.Device,Sim.Pins,manufacturer part#,vendor,vendor part#
+1,1,D1,,D,1=K 2=A,P600G-E3/54,digikey,P600G-E3/54GICT-ND
+2,4,"H1, H2, H3, H4",,,,,,
+3,3,"P1, P2, P6",,,,1935226,digikey,277-1583-ND
+4,1,P3,,,,1935161,digikey,277-1667-ND

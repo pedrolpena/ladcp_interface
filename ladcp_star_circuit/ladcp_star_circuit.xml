@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/pena/Downloads/src/ladcp_interface/ladcp_star_circuit/ladcp_star_circuit.kicad_sch</source>
+    <date>Thu 05 Oct 2023 10:26:48 AM EDT</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>LADCP Star Board</title>
+        <company>NOAA AOML PHOD</company>
+        <rev>1.0.0.1</rev>
+        <date>2023-06-07</date>
+        <source>ladcp_star_circuit.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>P600G-E3/54</value>
+      <footprint>Diode_THT:D_P600_R-6_P20.00mm_Horizontal</footprint>
+      <datasheet>https://www.vishay.com/docs/88692/p600a.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="manufacturer part#">P600G-E3/54</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">P600G-E3/54GICT-ND</field>
+      </fields>
+      <libsource lib="Diode" part="1N4005" description="600V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="P600G-E3/54GICT-ND"/>
+      <property name="manufacturer part#" value="P600G-E3/54"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="600V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f00c1617-1646-4bcb-9518-3037d4f40192</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34340a08-0ef9-472f-bf02-79ff802afe24</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82596f41-a44e-4335-a512-a0dad3db5cd5</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dd36e42-12de-4700-9d94-3cf436cd77d3</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.5mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aced02b5-802b-41a5-bb47-7a99cba43a45</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>TERM BLK 8POS SIDE ENTRY 5MM PCB</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935226.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935226</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1583-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1583-ND"/>
+      <property name="manufacturer part#" value="1935226"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46e76d73-f912-44b5-a1fd-99634b8fb928</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>TERM BLK 8POS SIDE ENTRY 5MM PCB</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935226.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935226</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1583-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1583-ND"/>
+      <property name="manufacturer part#" value="1935226"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4c28365-b078-4671-9ea8-75aa9931f8d7</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>TERM BLK 2POS SIDE ENTRY 5MM PCB</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935161</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1667-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1667-ND"/>
+      <property name="manufacturer part#" value="1935161"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e75e9792-46de-442c-9c45-a2170bac5551</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>TERM BLK 8POS SIDE ENTRY 5MM PCB</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935226.pdf</datasheet>
+      <fields>
+        <field name="manufacturer part#">1935226</field>
+        <field name="vendor">digikey</field>
+        <field name="vendor part#">277-1583-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="vendor" value="digikey"/>
+      <property name="vendor part#" value="277-1583-ND"/>
+      <property name="manufacturer part#" value="1935226"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ladcp_star_circuit.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6162b40-d0b4-42e9-8864-cbd7e0c75589</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x08">
+      <description>Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4005">
+      <description>600V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4005</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DATA_RTN">
+      <node ref="P1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="P2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="P6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="2" name="/POWER+">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="P1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/POWER-">
+      <node ref="P1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="P2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="P3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="P6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="4" name="/RS232_IN_MASTER">
+      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="5" name="/RS232_IN_SLAVE">
+      <node ref="P2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="6" name="/RS232_OUT_MASTER">
+      <node ref="P1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="P6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="7" name="/RS232_OUT_SLAVE">
+      <node ref="P2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="P6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="8" name="/RS485A">
+      <node ref="P1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="P2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="9" name="/RS485B">
+      <node ref="P1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="P2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="P6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(P1-Pin_8-Pad8)">
+      <node ref="P1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(P2-Pin_8-Pad8)">
+      <node ref="P2" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(P6-Pin_8-Pad8)">
+      <node ref="P6" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
