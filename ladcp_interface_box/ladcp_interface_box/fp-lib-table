@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ladcp_interface_box")(type "KiCad")(uri "${KIPRJMOD}/ladcp_interface_box.pretty")(options "")(descr ""))
+)
